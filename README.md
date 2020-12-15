@@ -5,6 +5,7 @@ This project is dedicated to the dialects of the Siberian Estonians. At present,
 ## Speech Data
 
 You can download the primary speech data here: 
+https://drive.google.com/drive/folders/1VNUHADkAh1T3enyKwPqjFXbzGUTaykZT
 
 
 ## License
